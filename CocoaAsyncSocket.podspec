@@ -19,5 +19,4 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.ios.frameworks = ['CFNetwork', 'Security']
   s.osx.frameworks = ['CoreServices', 'Security']
-  end
 end
